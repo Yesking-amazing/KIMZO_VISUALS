@@ -799,7 +799,7 @@ em.italic-accent {
   font-weight: 400;
 }
 @media (max-width: 600px) {
-  .about__portrait { aspect-ratio: 3/4; }
+  .about__portrait { aspect-ratio: 3/4; background: transparent; }
   .about__portrait img { object-fit: contain; object-position: top center; }
 }
 .about__services {
