@@ -40,7 +40,7 @@ export default function Contact() {
           <form className="form" onSubmit={onSubmit}>
             <div className="form__row">
               <label className="form__label" htmlFor="f-name">Your name</label>
-              <input id="f-name" className="form__input" type="text" placeholder="Kim Zürcher" required />
+              <input id="f-name" className="form__input" type="text" placeholder="Khalid Hügli" required />
             </div>
             <div className="form__row">
               <label className="form__label" htmlFor="f-mail">Email</label>
