@@ -1,4 +1,7 @@
 export default function Reel() {
+  // Temporarily hidden at client's request — restore by returning the JSX below.
+  return null;
+  /*
   return (
     <section className="section section--tight reel" id="reel">
       <div className="container">
@@ -27,4 +30,5 @@ export default function Reel() {
       </div>
     </section>
   );
+  */
 }
