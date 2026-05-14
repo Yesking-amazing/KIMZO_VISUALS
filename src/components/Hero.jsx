@@ -25,7 +25,6 @@ export default function Hero() {
         </div>
         <div className="hero__meta">
           <div className="hero__meta-row"><span>Lat</span><span>47.3769° N</span></div>
-          <div className="hero__meta-row"><span>Reel</span><span>2025</span></div>
         </div>
       </div>
       <div className="hero-split-grid">
