@@ -13,7 +13,7 @@ export default function Contact() {
       <div className="container">
         <div className="contact__grid">
           <div>
-            <div className="eyebrow" style={{ marginBottom: 18 }}><span className="dot"></span>Let's make something</div>
+            <div className="eyebrow" style={{ marginBottom: 18 }}><span className="dot"></span>Let's create something</div>
             <h2 className="contact__statement">
               Got an event? <em>Let's talk.</em>
             </h2>
@@ -44,7 +44,7 @@ export default function Contact() {
             </div>
             <div className="form__row">
               <label className="form__label" htmlFor="f-mail">Email</label>
-              <input id="f-mail" className="form__input" type="email" placeholder="you@email.com" required />
+              <input id="f-mail" className="form__input" type="email" placeholder="your@mail.com" required />
             </div>
             <div className="form__row">
               <label className="form__label" htmlFor="f-event">Event / project</label>
