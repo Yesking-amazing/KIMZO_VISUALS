@@ -27,7 +27,7 @@ export default function Footer() {
           <div>
             <div className="footer__col-title">Get in touch</div>
             <div className="footer__col-list">
-              <a href="mailto:hello@kimzo.net">hello@kimzo.net</a>
+              <a href="mailto:contact@kimzo.net">contact@kimzo.net</a>
               <a href="https://tidycal.com/kimzo/filmmaking" target="_blank" rel="noopener">Schedule a call</a>
             </div>
           </div>

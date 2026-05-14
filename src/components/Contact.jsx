@@ -26,9 +26,9 @@ export default function Contact() {
                 <span className="contact__row-label">Book a call</span>
                 <span className="contact__row-value">tidycal.com/kimzo →</span>
               </a>
-              <a href="mailto:hello@kimzo.net" className="contact__row">
+              <a href="mailto:contact@kimzo.net" className="contact__row">
                 <span className="contact__row-label">Email</span>
-                <span className="contact__row-value">hello@kimzo.net →</span>
+                <span className="contact__row-value">contact@kimzo.net →</span>
               </a>
               <a href="https://www.instagram.com/kimzo.visuals/" target="_blank" rel="noopener" className="contact__row">
                 <span className="contact__row-label">Instagram</span>
