@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer__top">
           <h3 className="footer__big">
-            KIMZO VISUALS
+            KIMZO <span className="footer__big-accent">VISUALS</span>
           </h3>
           <div>
             <div className="footer__col-title">Explore</div>

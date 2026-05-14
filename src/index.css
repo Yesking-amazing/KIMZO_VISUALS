@@ -957,6 +957,13 @@ em.italic-accent {
 .footer__big em {
   font-family: "Instrument Serif", serif; font-style: italic; font-weight: 400; color: var(--accent);
 }
+.footer__big-accent {
+  background: linear-gradient(180deg, #c084fc 0%, var(--accent) 55%, #7e22ce 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  letter-spacing: -0.02em;
+}
 .footer__col-title {
   font-family: var(--mono-font);
   font-size: 10px;

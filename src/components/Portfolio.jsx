@@ -67,7 +67,6 @@ export default function Portfolio() {
               <div className="tile__caption">
                 <div>
                   <h3 className="tile__title">{item.title}</h3>
-                  <div className="tile__meta">{item.loc} · {item.year}</div>
                 </div>
                 <span className="tile__cat">{item.cat}</span>
               </div>
