@@ -13,7 +13,6 @@ export default function Nav() {
   return (
     <nav className={`nav ${scrolled ? "nav--scrolled" : ""}`}>
       <a href="#top" className="nav__brand">
-        <span className="nav__brand-mark">K</span>
         <span>KIMZO Visuals</span>
       </a>
       <div className="nav__links">
