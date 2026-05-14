@@ -101,9 +101,6 @@ export default function Portfolio() {
           </button>
           <div onClick={(e) => e.stopPropagation()} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <img className="lightbox__img" src={lightbox.img} alt={lightbox.title} />
-            <div className="lightbox__caption">
-              {lightbox.title} · {lightbox.cat} · {lightbox.loc} · {lightbox.year}
-            </div>
           </div>
         </div>
       )}
