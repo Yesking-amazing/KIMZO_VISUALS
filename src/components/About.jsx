@@ -1,6 +1,9 @@
 import { PORTRAIT, CLIENTS } from "../data";
 
 function Logos() {
+  // Temporarily hidden at client's request — restore by returning the JSX below in a few months.
+  return null;
+  /*
   return (
     <section className="logos">
       <div className="container logos__inner">
@@ -13,6 +16,7 @@ function Logos() {
       </div>
     </section>
   );
+  */
 }
 
 function About() {

@@ -30,7 +30,7 @@ export default function Portfolio() {
       <div className="container">
         <div className="portfolio__header">
           <div>
-            <div className="eyebrow" style={{ marginBottom: 14 }}><span className="dot"></span>Selected work · 2024 — 2026</div>
+            <div className="eyebrow" style={{ marginBottom: 14 }}><span className="dot"></span>Selected work · 2024 — now</div>
             <h2 className="h-section">The <em className="italic-accent" style={{ color: 'var(--accent)' }}>portfolio</em>.</h2>
           </div>
           <p className="lead" style={{ maxWidth: '36ch' }}>
