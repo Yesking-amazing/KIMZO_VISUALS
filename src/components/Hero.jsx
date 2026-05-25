@@ -43,7 +43,6 @@ export default function Hero() {
         </div>
       </div>
       <div className="hero__tagline">
-        <p className="hero__tagline-text">Event filmmaking & photography for <em>artists, DJs</em> & festivals.</p>
         <div className="hero__tagline-actions">
           <a href="#work" className="btn">View Work</a>
           <a href="#contact" className="btn btn--primary">Book a call <span className="arrow">→</span></a>

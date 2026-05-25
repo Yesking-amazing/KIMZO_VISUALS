@@ -1,30 +1,29 @@
 export const HERO_IMAGES = [
-  "https://framerusercontent.com/images/tmS2olYSmtyQyF6iMfDRtkUyw.jpg?width=1600",
-  "https://framerusercontent.com/images/kXNRMVMDHeLuI95U2OUzQ69HI.jpg?width=1600",
-  "https://framerusercontent.com/images/LHkofbavhbX92aTze52lnz4Qk.jpg?width=1600",
-  "https://framerusercontent.com/images/OKNGsVVBqakZT1zpkfA4TKATw.jpg?width=1600",
-  "https://framerusercontent.com/images/5jKJD3aU0LEWN1uyS6MCZyiltyQ.jpg?width=1600",
+  "/portfolio/AMF_001.jpg",
+  "/portfolio/AMF_031.jpg",
+  "/portfolio/AMF_044.jpg",
+  "/portfolio/Nico_Rooftop_001.jpg",
+  "/portfolio/Subset_001.jpg",
 ];
 
 export const PORTRAIT = "https://framerusercontent.com/images/FPDuD67v1tYehjNn1wOwamtfuY8.jpeg?width=1200";
 
 export const PORTFOLIO = [
-  { id: 1,  cat: "Festival",     title: "AMF Mainstage",          loc: "Zürich, CH",      year: "2025", img: "https://framerusercontent.com/images/OKNGsVVBqakZT1zpkfA4TKATw.jpg?width=1400", span: "wide" },
-  { id: 2,  cat: "DJ",           title: "Crowd Energy",            loc: "Bern, CH",        year: "2025", img: "https://framerusercontent.com/images/kXNRMVMDHeLuI95U2OUzQ69HI.jpg?width=1200" },
-  { id: 3,  cat: "Clubs", title: "Stage Lights",            loc: "Geneva, CH",      year: "2024", img: "https://framerusercontent.com/images/LHkofbavhbX92aTze52lnz4Qk.jpg?width=1200" },
-  { id: 4,  cat: "Artist",       title: "Backstage",               loc: "Munich, DE",      year: "2025", img: "https://framerusercontent.com/images/tmS2olYSmtyQyF6iMfDRtkUyw.jpg?width=1200" },
-  { id: 5,  cat: "DJ",           title: "Mixing the Set",          loc: "Basel, CH",       year: "2024", img: "https://framerusercontent.com/images/5jKJD3aU0LEWN1uyS6MCZyiltyQ.jpg?width=1200" },
-  { id: 6,  cat: "Festival",     title: "Open Air",                loc: "Lucerne, CH",     year: "2025", img: "https://framerusercontent.com/images/OKNGsVVBqakZT1zpkfA4TKATw.jpg?width=1200" },
-  { id: 7,  cat: "Clubs", title: "Front Row",               loc: "Vienna, AT",      year: "2024", img: "https://framerusercontent.com/images/kXNRMVMDHeLuI95U2OUzQ69HI.jpg?width=1200" },
-  { id: 8,  cat: "Artist",       title: "Studio Portrait",         loc: "Zürich, CH",      year: "2025", img: "https://framerusercontent.com/images/LHkofbavhbX92aTze52lnz4Qk.jpg?width=1200" },
-  { id: 9,  cat: "Artist", title: "Neon Streets",            loc: "Berlin, DE",      year: "2025", img: "https://framerusercontent.com/images/tmS2olYSmtyQyF6iMfDRtkUyw.jpg?width=1200", span: "wide" },
-  { id: 10, cat: "Festival",     title: "Sunset Set",              loc: "Ibiza, ES",       year: "2024", img: "https://framerusercontent.com/images/5jKJD3aU0LEWN1uyS6MCZyiltyQ.jpg?width=1200" },
-  { id: 11, cat: "DJ",           title: "Decks at Dawn",           loc: "Amsterdam, NL",   year: "2025", img: "https://framerusercontent.com/images/OKNGsVVBqakZT1zpkfA4TKATw.jpg?width=1200" },
-  { id: 12, cat: "Clubs", title: "Encore",                  loc: "Paris, FR",       year: "2024", img: "https://framerusercontent.com/images/LHkofbavhbX92aTze52lnz4Qk.jpg?width=1200" },
-  { id: 13, cat: "Artist",       title: "Off Stage",               loc: "Hamburg, DE",     year: "2025", img: "https://framerusercontent.com/images/kXNRMVMDHeLuI95U2OUzQ69HI.jpg?width=1200" },
-  { id: 14, cat: "Artist", title: "Slow Motion",             loc: "Zürich, CH",      year: "2024", img: "https://framerusercontent.com/images/tmS2olYSmtyQyF6iMfDRtkUyw.jpg?width=1200" },
-  { id: 15, cat: "Festival",     title: "Mainstage Lights",        loc: "Lausanne, CH",    year: "2025", img: "https://framerusercontent.com/images/5jKJD3aU0LEWN1uyS6MCZyiltyQ.jpg?width=1200" },
-  { id: 16, cat: "DJ",           title: "Headliner",               loc: "Frankfurt, DE",   year: "2025", img: "https://framerusercontent.com/images/kXNRMVMDHeLuI95U2OUzQ69HI.jpg?width=1200" },
+  { id: 1,  cat: "Festival",  title: "AMF Mainstage",           loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_001.jpg", span: "wide" },
+  { id: 2,  cat: "DJ",        title: "Miss Monique",            loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_003.jpg" },
+  { id: 3,  cat: "Festival",  title: "John Summit",             loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_022.jpg", span: "wide" },
+  { id: 4,  cat: "Festival",  title: "John Summit Live",        loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_024.jpg" },
+  { id: 5,  cat: "Festival",  title: "Hardwell",                loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_031.jpg" },
+  { id: 6,  cat: "Festival",  title: "AMF Stage",               loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_036.jpg" },
+  { id: 7,  cat: "Festival",  title: "Crowd Silhouette",        loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_042.jpg" },
+  { id: 8,  cat: "Festival",  title: "Armin van Buuren",        loc: "Amsterdam, NL",   year: "2025", img: "/portfolio/AMF_044.jpg" },
+  { id: 9,  cat: "Clubs",     title: "Behind the Decks",        loc: "Zürich, CH",      year: "2025", img: "/portfolio/DSC08239.jpg" },
+  { id: 10, cat: "Clubs",     title: "Motion Blur",             loc: "Zürich, CH",      year: "2025", img: "/portfolio/DSC08262.jpg" },
+  { id: 11, cat: "Clubs",     title: "Club Night",              loc: "Zürich, CH",      year: "2025", img: "/portfolio/DSC08330.jpg" },
+  { id: 12, cat: "Artist",    title: "Rooftop Portrait",        loc: "Switzerland",     year: "2025", img: "/portfolio/Nico_Rooftop_001.jpg" },
+  { id: 13, cat: "Artist",    title: "Sunset Set",              loc: "Switzerland",     year: "2025", img: "/portfolio/Nico_Rooftop_008.jpg" },
+  { id: 14, cat: "Artist",    title: "Golden Hour",             loc: "Switzerland",     year: "2025", img: "/portfolio/Nico_Rooftop_010.jpg" },
+  { id: 15, cat: "Clubs",     title: "Subset",                  loc: "Zürich, CH",      year: "2025", img: "/portfolio/Subset_001.jpg" },
 ];
 
 export const CATEGORIES = ["All", "Festival", "Clubs", "DJ", "Artist"];
